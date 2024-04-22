@@ -1,9 +1,9 @@
 <h1 align = "center" style = "font-weight : bold">
 Swire Coca Cola Capstone Project
 </h1>
-![download](https://github.com/ssreemutyapu/Swire-Coca-cola-capstone-project/assets/153456790/ada3448c-b9bd-4602-89d9-362de14c1e3e)
 
 
+![download](https://github.com/ssreemutyapu/Swire-Coca-cola-capstone-project/assets/153456790/f122af8f-850e-4aef-a924-0fe37c412ead)
 
 ## **Introduction:**
 Swire Coca-Cola is dedicated to staying ahead of consumer trends by continuously introducing innovative products to the market. These unique offerings, marked by premium pricing, not only expand the company's market reach but also attract new customers. However, optimizing production planning and inventory management for these novel beverages presents a significant challenge. Swire aims to accurately forecast demand for its new products to ensure optimal production quantities, prevent stockouts and overproduction, minimize costs, and maximize customer satisfaction. 
