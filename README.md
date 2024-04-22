@@ -1,5 +1,5 @@
 <h1 align = "center" style = "font-weight : bold">
-Swire-Coca-Cola-Capstone-Project
+Swire Coca Cola Capstone Project
 </h1>
 
 <p align = "center">
