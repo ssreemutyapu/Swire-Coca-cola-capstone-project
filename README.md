@@ -1,11 +1,8 @@
 <h1 align = "center" style = "font-weight : bold">
 Swire Coca Cola Capstone Project
 </h1>
+![download](https://github.com/ssreemutyapu/Swire-Coca-cola-capstone-project/assets/153456790/ada3448c-b9bd-4602-89d9-362de14c1e3e)
 
-<p align = "center">
-   <img src ="![swire](https://github.com/ssreemutyapu/Swire-Coca-cola-capstone-project/assets/153456790/19236eeb-0d22-4582-b958-98b5e6576b38)
-" width = "190" height="130">
-</p>
 
 
 ## **Introduction:**
