@@ -3,7 +3,8 @@ Swire Coca Cola Capstone Project
 </h1>
 
 <p align = "center">
-   <img src ="https://images.app.goo.gl/5p5hzg9FWnNcZxzz5" width = "190" height="130">
+   <img src ="![swire](https://github.com/ssreemutyapu/Swire-Coca-cola-capstone-project/assets/153456790/19236eeb-0d22-4582-b958-98b5e6576b38)
+" width = "190" height="130">
 </p>
 
 
